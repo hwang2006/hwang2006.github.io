@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "ko_KR_UTF-8" #"en-US"
+locale                   : "en-US" #"ko_KR_UTF-8" #"en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Soonwook Hwang"
