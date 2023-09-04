@@ -85,7 +85,7 @@ author:
   bio              : "Computer Scientist and Formal Director General. For the last couple of years I have been very much keen on exploring and developing large-scale distributed deep learning practices on National Supercomputing facilities."
   location         : "Daejeon, South Korea"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rbGiXDcAAAAJ&hl=ko"
   email            : "hwang@kisti.re.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
