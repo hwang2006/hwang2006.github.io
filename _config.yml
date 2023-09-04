@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Soonwook Hwang, Ph.D"
-  avatar           : "bio-photo.jpg"
+  avatar           : "bio_photo.jpg"
   bio              : "Computer Scientist and Formal Director General. For the last couple of years I have been very much keen on exploring and developing large-scale distributed deep learning practices on National Supercomputing facilities."
   location         : "Daejeon, South Korea"
   employer         :
