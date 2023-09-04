@@ -87,14 +87,14 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rbGiXDcAAAAJ&hl=ko"
-  email            : "hwang@kisti.re.kr"
+  email            : #"hwang@kisti.re.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : #"soonwook.hwang.39"
+  facebook         : "soonwook.hwang.39"
   foursquare       :
   github           : "hwang2006"
   google_plus      :
