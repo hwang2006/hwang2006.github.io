@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US" #"ko_KR_UTF-8"
+locale                   : "ko_KR_UTF-8" #"en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Soonwook Hwang"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Soonwook Hwang"
+  name             : "Soonwook Hwang, Ph.D"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Computer Scientist and Formal Director General. For the last couple of years I have been very much keen on exploring and developing large-scale distributed deep learning practices including pre-training/fine-tuning LLMs on supercomputers, especially on National Supercomputing Facilities like KISTI in Korea and LBNL/NERSC in the U.S."
   location         : "Daejeon, South Korea"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
