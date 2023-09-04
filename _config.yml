@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Soonwook Hwang, Ph.D"
   avatar           : "bio_photo.jpg"
-  bio              : "Computer Scientist and Formal Director General. For the last couple of years I have been very much keen on exploring and developing large-scale distributed deep learning practices including pre-training/fine-tuning LLMs on supercomputers, especially on National Supercomputing Facilities like KISTI in Korea and LBNL/NERSC in the U.S."
+  bio              : "Computer Scientist and Formal Director General. For the last couple of years I have been very much keen on exploring and developing large-scale distributed deep learning practices on National Supercomputing facilities."
   location         : "Daejeon, South Korea"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
