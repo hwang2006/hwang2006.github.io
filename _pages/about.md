@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <br><br>
-Soonwook Hwang is a senior principal researcher and formal director general at the National Supercomputing Center in Korea Institute of Science and Technology Information (KISTI), and professor at the school of Data & High Performance Computing Science in the University of Science and Technology in Daejeon, Korea. 
+Soonwook Hwang is a senior principal researcher and formal director general at the National Supercomputing Center in Korea Institute of Science and Technology Information (KISTI), and professor at the school of Data & High Performance Computing Science in the University of Science and Technology in Daejeon, Korea. Dr. Hwang's recent research interest lies in exploring and developing large-scale distributed deep learning practices including pre-training/fine-tuning LLMs on supercomputers, especially on National Supercomputing Facilities like KISTI in Korea and LBNL/NERSC in the U.S.  l
 
 Getting started
 ======
