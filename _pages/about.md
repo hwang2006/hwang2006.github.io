@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Principal Researcher & Formal Director General, KISTI and Professor, University of Science and Technology"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
