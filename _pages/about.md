@@ -13,18 +13,10 @@ Soonwook Hwang is a senior principal researcher and formal director general at t
 
 Dr. Hwang received his Ph.D. in [Computer Science](https://www.cs.usc.edu/) from the [University of Southern California (USC)](https://www.usc.edu/) in 2003 under the supervision of Prof. [Carl Kesselman](https://michelson.usc.edu/faculty-directory/carl-kesselman/). He also received his B.S. and M.S. in Mathmatics and Computer Science from Seoul National University, Korea in 1990 and 1995, respectively.
 
-Getting started
+Selected Projects
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+1. [HTCaaS (High Throghghput Computing as a Service)](
+1. [AMGA Metadata Catalog Project](https://amga.web.cern.ch/amga/)
 
 Create content & metadata
 ------
