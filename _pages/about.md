@@ -14,7 +14,7 @@ Soonwook Hwang is a senior principal researcher and formal director general at t
 Dr. Hwang received his Ph.D. in [Computer Science](https://www.cs.usc.edu/) from the [University of Southern California (USC)](https://www.usc.edu/) in 2003 under the supervision of Prof. [Carl Kesselman](https://michelson.usc.edu/faculty-directory/carl-kesselman/). He also received his B.S. and M.S. in Mathmatics and Computer Science from Seoul National University, Korea in 1990 and 1995, respectively.
 
 Selected Projects
-======
+------
 1. [HTCaaS (High Throghghput Computing as a Service)](http://htcaas.kisti.re.kr/wiki/)
 1. [AMGA Metadata Catalog Project](https://amga.web.cern.ch/amga/)
 
