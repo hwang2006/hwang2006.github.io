@@ -4,4 +4,4 @@ excerpt: "August 2023, Completion Certificate for Generative AI with Large Langu
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+It's worth putting time and some efforts to complete the course that is informative and practically useful. It’s interesting that LLMs could possibly be viewed as a reasoning engine for generative AI.
