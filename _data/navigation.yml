@@ -2,11 +2,11 @@
 main:
   - title: "Publications"
     url: https://scholar.google.com/citations?user=rbGiXDcAAAAJ&hl=ko #/publications/
-
+    
   - title: "Talks"
     url: /talks/    
-
-  - title: #"Teaching"
+    
+  - title: "Teaching"
     url: /teaching/    
     
   - title: "Blog Posts" #"Science Columns"
@@ -17,7 +17,7 @@ main:
     
   - title: "CV"
     url: "/files/CV_Soonwook.pdf"  #/cv/
-
+    
   - title: "Events"
     url: /events/
     
