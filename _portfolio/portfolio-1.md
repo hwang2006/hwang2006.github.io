@@ -1,6 +1,6 @@
 ---
 title: "Coursera Certificate"
-excerpt: "Completion Certificate for Generative AI with Large Language Models<br/><img src='/images/coursera_certificate.jpg'>"
+excerpt: "Completion Certificate for Generative AI with Large Language Models<br/><img src='/images/coursera_certificate_6_4.64.jpg'>"
 collection: portfolio
 ---
 
