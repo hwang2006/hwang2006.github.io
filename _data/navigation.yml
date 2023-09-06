@@ -7,13 +7,13 @@ main:
     url: /talks/    
 
   - title: #"Teaching"
-    url: # /teaching/    
+    url: /teaching/    
+    
+  - title: "Blog Posts" #"Science Columns"
+    url: /year-archive/
     
   - title: "Portfolio"
     url: /portfolio/
-        
-  - title: "Blog Posts" #"Science Columns"
-    url: /year-archive/
     
   - title: "CV"
     url: "/files/CV_Soonwook.pdf"  #/cv/
