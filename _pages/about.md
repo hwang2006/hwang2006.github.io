@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <br><br>
-Soonwook Hwang is a senior principal researcher and formal director general at the [National Supercomputing Center](https://www.ksc.re.kr/) in [Korea Institute of Science and Technology Information (KISTI)](https://www.kisti.re.kr/), and professor at the KISTI school of Data & High Performance Computing Science in the [University of Science and Technology (UST)](https://www.ust.ac.kr/). He serves as a science columnist for [Joongdo Daily News](http://www.joongdo.co.kr/), writing [articles](https://hwang2006.github.io/year-archive/) primarily on the topics of Supercomputing and Artificial Intelligence on a regular basis since 2019.
+Soonwook Hwang is a senior principal researcher and formal director general at the [National Supercomputing Center](https://www.ksc.re.kr/) in [Korea Institute of Science and Technology Information (KISTI)](https://www.kisti.re.kr/), and professor at the KISTI school of Data & High Performance Computing Science in the [University of Science and Technology (UST)](https://www.ust.ac.kr/). He serves as a columnist for [Joongdo Daily News](http://www.joongdo.co.kr/), writing [science columns](https://hwang2006.github.io/year-archive/) primarily on the topics of Supercomputing and Artificial Intelligence on a regular basis since 2019.
 
 Dr. Hwang's recent research interest lies in exploring and developing large-scale distributed deep learning practices including pre-training/fine-tuning LLMs on supercomputers, especially on National Supercomputing Facilities like KISTI in Korea and [LBNL/NERSC](https://www.nersc.gov/) in the U.S. [Here](https://github.com/hwang2006) is his GitHub site for ML/DL exploration and exploitation on supercomputers.
 
