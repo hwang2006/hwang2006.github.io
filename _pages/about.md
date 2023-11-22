@@ -26,7 +26,7 @@ Selected Projects
 
 Reference
 ------
-* [Letters of Recommendation](https://hwang2006.github.io/files/
+* [Letters of Recommendation](https://hwang2006.github.io/files/recommendation-letter-Horst-Dan-Vincent-Satoshi.pdf)
 
 
 
