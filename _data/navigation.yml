@@ -19,7 +19,7 @@ main:
     url: "/files/CV_Soonwook.pdf"  #/cv/
 
   - title: "Recommendation Letters"
-    url: /publications/   
+    url: /recommendation/   
     
   - title: "Events"
     url: /events/
