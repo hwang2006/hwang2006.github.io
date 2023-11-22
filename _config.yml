@@ -186,7 +186,7 @@ collections:
     permalink: /:collection/:path/
   recommendation:
     output: true
-    permalink: /:collection/:path/  
+    permalink: /:path/  
   talks:
     output: true
     permalink: /:collection/:path/
