@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Principal Researcher & Formal Director General, KISTI <br> Professor, University of Science and Technology"
+title: "Principal Researcher & Former Director General, KISTI <br> Professor, University of Science and Technology"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
