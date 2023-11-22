@@ -17,7 +17,7 @@ He joined KISTI in 2006 as a Chief Architect for Korea's national e-Science proj
 
 Before his tenure at KISTI, Dr. Hwang worked for the Japanese National Research Grid Initiative (NAREGI) from 2004 to 2006. NAREGI aims to develop grid middleware for a next-generation CyberScience infrastructure in Japan. 
 
-Dr. Hwang received his Ph.D. in [Computer Science](https://www.cs.usc.edu/) from the [University of Southern California (USC)](https://www.usc.edu/) in 2003 under the supervision of Prof. [Carl Kesselman](https://michelson.usc.edu/faculty-directory/carl-kesselman/), a pioneer in grid computing and the creator of the Globus open-source toolkit. He also earned his B.S. and M.S. degrees in Mathematics and Computer Science from Seoul National University, Korea, in 1990 and 1995, respectively.
+Dr. Hwang received his Ph.D. in [Computer Science](https://www.cs.usc.edu/) from the [University of Southern California (USC)](https://www.usc.edu/) in 2003 under the supervision of Prof. [Carl Kesselman](https://michelson.usc.edu/faculty-directory/carl-kesselman/), a pioneer in grid computing and the creator of the Globus open-source toolkit. He also earned his B.S. and M.S. degrees in Mathematics and Computer Science from Seoul National University, Korea, respectively.
 
 Selected Projects
 ------
