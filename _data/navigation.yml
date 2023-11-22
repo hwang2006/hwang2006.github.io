@@ -17,12 +17,12 @@ main:
     
   - title: "CV"
     url: "/files/CV_Soonwook.pdf"  #/cv/
+
+ - title: "Recommendation Letters"
+    url: /recommendation/   
     
   - title: "Events"
     url: /events/
-
-  - title: "Recommendation Letters"
-    url: /recommendation/
     
   - title: "Guide"
     url: /markdown/
