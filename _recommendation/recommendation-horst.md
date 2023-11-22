@@ -15,4 +15,4 @@ date: 2020-12-08
 paperurl: 'https://hwang2006.github.io/files/recommendation-letter-Horst.pdf'
 ---
 
-You may want to refer to Dr. Horst Simon [here]("https://www.linkedin.com/in/horst-simon-6b3417/") and [People to Wathch 2023]("https://www.hpcwire.com/people-to-watch-2023-horst-simon")
+You may want to refer to Dr. Horst Simon [here]('https://www.linkedin.com/in/horst-simon-6b3417/') and [People to Wathch 2023]('https://www.hpcwire.com/people-to-watch-2023-horst-simon')
