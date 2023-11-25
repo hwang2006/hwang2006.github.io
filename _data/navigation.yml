@@ -9,7 +9,7 @@ main:
   - title: #"Teaching"
     url: /teaching/    
     
-  - title: "Science Columns" #"Blog Posts" 
+  - title: "Op-Ed Articles" #"Blog Posts" 
     url: /year-archive/
 
   - title: "Portfolio"
