@@ -43,13 +43,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/hwang2006/"
+  github           : "hwang2006"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : "https://www.facebook.com/soonwook.hwang.39"
+  facebook         : "soonwook.hwang.39"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/soonwook-hwang-82701a22/"
+  linkedin         : "soonwook-hwang-82701a22"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
