@@ -26,18 +26,9 @@ Selected Projects
 ------
 * [AMGA Metadata Catalog Project](https://amga.web.cern.ch/amga/)
 * [HTCaaS (High Throughput Computing as a Service)](http://htcaas.kisti.re.kr)
-=======
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
->>>>>>> a5ede614473523077f69ad0fd09ee527151d0e21
+
 
 Reference
 ------
 * [Letters of Recommendation](https://hwang2006.github.io/files/recommendation-letter-Horst-Dan-Vincent-Satoshi.pdf)
 
-
-=======
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
->>>>>>> a5ede614473523077f69ad0fd09ee527151d0e21
