@@ -6,59 +6,50 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
-<<<<<<< HEAD
-# Site Settings
+# Basic Site Settings
 locale                   : "ko_KR_UTF-8" #"en-US"
 title                    : "Homepage"
-=======
-# Basic Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
->>>>>>> a5ede614473523077f69ad0fd09ee527151d0e21
 title_separator          : "-"
 name                     : &name "Soonwook Hwang"
 description              : &description "personal description"
 url                      : https://hwang2006.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-<<<<<<< HEAD
-repository               : "qualis2006/qualis2006.github.io"
-=======
-repository               : "academicpages/academicpages.github.io"
+repository               : "hwang2006/hwang2006.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "bio_photo_m.jpg"
+  name             : "Soonwook Hwang, Ph.D."
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Professor and Computer Scientist @UST & KISTI"
+  location         : "Daejeon, South Korea"
+  employer         : 
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hwang@kisti.re.kr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=rbGiXDcAAAAJ&hl=ko"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/hwang2006/"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  facebook         : "https://www.facebook.com/soonwook.hwang.39"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -66,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/soonwook-hwang-82701a22/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -80,11 +71,11 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
+  huggingface      : "hwang2006"
   zhihu            : # URL
 
 
 # Site Settings
->>>>>>> a5ede614473523077f69ad0fd09ee527151d0e21
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 150
@@ -152,49 +143,6 @@ analytics:
     tracking_id          :
 
 
-<<<<<<< HEAD
-# Site Author
-author:
-  name             : "Soonwook Hwang, Ph.D."
-  avatar           : "bio_photo_m.jpg"
-  bio              : "Professor and Computer Scientist @UST & KISTI"
-  location         : "Daejeon, South Korea"
-  employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=rbGiXDcAAAAJ&hl=ko"
-  email            : #"hwang@kisti.re.kr"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         : "soonwook.hwang.39"
-  foursquare       :
-  github           : "hwang2006"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "soonwook-hwang-82701a22"
-  orcid            : #"http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : #"hwang12580197"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  huggingface      : "hwang2006"
-  wikipedia        :
-
-
-=======
->>>>>>> a5ede614473523077f69ad0fd09ee527151d0e21
 # Reading Files
 include:
   - .htaccess
