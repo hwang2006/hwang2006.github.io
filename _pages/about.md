@@ -1,17 +1,29 @@
 ---
 permalink: /
+<<<<<<< HEAD
 title: "Principal Researcher & Former Director General, KISTI <br> Professor, University of Science and Technology"
 excerpt: "About me"
+=======
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+>>>>>>> a5ede614473523077f69ad0fd09ee527151d0e21
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+<<<<<<< HEAD
 <br><br>
 Soonwook Hwang is a Principal Researcher and former Director General at the [National Supercomputing Center](https://www.ksc.re.kr/) of the [Korea Institute of Science and Technology Information (KISTI)](https://www.kisti.re.kr/). He is also a Professor at the KISTI school of Data & High Performance Computing Science in the [University of Science and Technology (UST)](https://www.ust.ac.kr/). Dr. Hwang serves as a guest columnist for [Joongdo Daily News](http://www.joongdo.co.kr/), where he has been, since 2019, writing science columns primarily on the topics of Supercomputing, Data and Artificial Intelligence. You can find his op-ed articles [here](https://hwang2006.github.io/year-archive/).
 
 As the Director General of KISTI's National Supercomputing Center, he was in charge of the development of the KISTI-5 supercomputer, Nurion, in partership with Cray and Intel, playing a pivotal role in Nurion debuting the No. 11 spot on the [Top500](https://www.top500.org/) supercomputers list in June, 2018.
+=======
+This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+
+A data-driven personal website
+======
+Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+>>>>>>> a5ede614473523077f69ad0fd09ee527151d0e21
 
 Dr. Hwang's recent research interests center around researching on Natural Language Processing (NLP) and exploring large-scale distributed training practices including pre-training/fine-tuning LLMs on supercomputers, especially on National Supercomputing Facilities including KISTI in Korea and [LBNL/NERSC](https://www.nersc.gov/) in the U.S. For more details on his work, please visit his GitHub repositories [here](https://github.com/hwang2006), which are intended to share and disseminate best practices for Distributed Deep Learning and Generative AI with LLMs on top of supercomputers including [Perlmutter](https://docs.nersc.gov/systems/perlmutter/architecture/) running [SLURM](https://slurm.schedmd.com/documentation.html) as its workload manager. 
 
@@ -21,10 +33,15 @@ Before his tenure at KISTI, Dr. Hwang worked for the Japanese National Research 
 
 Dr. Hwang received his Ph.D. in [Computer Science](https://www.cs.usc.edu/) from the [University of Southern California (USC)](https://www.usc.edu/) in 2003 under the supervision of Prof. [Carl Kesselman](https://michelson.usc.edu/faculty-directory/carl-kesselman/), a pioneer in grid computing and the creator of the Globus open-source toolkit. He also earned his B.S. and M.S. degrees in Mathematics and Computer Science from Seoul National University, Korea, respectively.
 
+<<<<<<< HEAD
 Selected Projects
 ------
 * [AMGA Metadata Catalog Project](https://amga.web.cern.ch/amga/)
 * [HTCaaS (High Throughput Computing as a Service)](http://htcaas.kisti.re.kr)
+=======
+I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
+) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+>>>>>>> a5ede614473523077f69ad0fd09ee527151d0e21
 
 Reference
 ------
@@ -32,3 +49,9 @@ Reference
 
 
 
+<<<<<<< HEAD
+=======
+For more info
+------
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+>>>>>>> a5ede614473523077f69ad0fd09ee527151d0e21
