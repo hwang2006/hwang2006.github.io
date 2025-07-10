@@ -25,7 +25,7 @@ Dr. Hwang received his Ph.D. in [Computer Science](https://www.cs.usc.edu/) from
 Selected Projects
 ------
 * [AMGA Metadata Catalog Project](https://amga.web.cern.ch/amga/)
-* [HTCaaS (High Throughput Computing as a Service)](http://ec2-35-175-138-25.compute-1.amazonaws.com/htcwiki)
+* [HTCaaS (High Throughput Computing as a Service)](https://htcaas.huntrix.xyz)
 
 
 Reference
